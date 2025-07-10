@@ -3,6 +3,8 @@ This is a submission to the Microsoft RAG_Hack Hackathon.
 # OnboardEase
 A chatbot that retrieves company-specific information such as policies, procedures, team structures, and project details to answer questions new employees might have. It can also offer personalized guidance based on their role or department.
 
+[See Demo 📺](https://youtu.be/6W2TxLA9Ch8?si=w7GpMFxvZqO7LtLm)
+
 # Problem Solved 
 New employees often face challenges navigating company policies, understanding role expectations, and adapting to the work environment. The chatbot solves this by:
 - Providing instant, accurate responses to common onboarding questions (e.g., “Where can I find the leave policy?” or “Who do I report to for X task?”).
